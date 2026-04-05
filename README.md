@@ -1,4 +1,4 @@
-# 🏦 End-to-End Data Engineering Project: Banking Data Warehouse
+# End-to-End Data Engineering Project: Banking Data Warehouse
 
 ## 📌 Overview
 
